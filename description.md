@@ -1,2 +1,2 @@
 # coding_club
-Homework for EMS Coding Club will be posted right here.
+Homework for TMS Coding Club will be posted right here.
