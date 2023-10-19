@@ -1,2 +1,2 @@
 # tms_coding_club
-Homework for TMS Coding Club will be posted right here.
+Homework for Timberline Middle School Coding Club will be posted right here.
